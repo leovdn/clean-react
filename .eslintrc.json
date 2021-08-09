@@ -12,7 +12,10 @@
   "env": {
     "cypress/globals": true
   },
-  "plugins": ["react", "cypress"],
+  "plugins": [
+    "react",
+    "cypress"
+  ],
   "parserOptions": {
     "project": "./tsconfig-eslint.json"
   },
