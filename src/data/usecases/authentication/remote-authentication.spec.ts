@@ -1,5 +1,5 @@
-import { HttpPostClientSpy } from "../../test/mockHttpClient"
 import { RemoteAuthentication } from "./remote-authentication"
+import { HttpPostClientSpy } from "../../test/mockHttpClient"
 import { mockAuthentication } from "../../../domain/test/mockAuthentication"
 
 import faker from 'faker'
